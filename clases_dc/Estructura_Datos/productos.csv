@@ -1,0 +1,7 @@
+id,nombre,precio,estado,stock,area
+1,LAPTOP,2500,1,1,almacen1
+2,IMPRESORA,300,1,17,almacen2
+3,CPU,800,1,0,almacen3
+4,MONITOR,200,1,19,almacen1
+5,MOUSE,15,1,2,almacen2
+6,TECLADO,17,1,100,almacen6
